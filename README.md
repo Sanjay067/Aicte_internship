@@ -1,4 +1,4 @@
 #AICTE internship project with TechSaksham – A joint CSR initiative of Microsoft & SAP
-#identifying shopping trends
+#identifying shopping trends using data analysis
 
 
